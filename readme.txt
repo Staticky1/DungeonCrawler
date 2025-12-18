@@ -1,3 +1,5 @@
+A university project to build a dungeon crawler styled game in C++. with the restriction of not being allowed to use the vector.h library or any smart pointers. 
+
 Gameplay loop logic is found inside the GameWorld class
 
 All spawned classes in the game are children of GameObject class
